@@ -1,8 +1,8 @@
 ioLogik W5340 Network I/O Server Configuration
 ==============================================
 [System Information]
-Date: 2017/03/14
-Time: 15:09:48
+Date: 2017/03/17
+Time: 10:28:57
 Firmware: V1.10.1 Build14030518
 Click&Go= V2.0 
 MOS= V3.2.48
@@ -2820,8 +2820,8 @@ CNT15_S_UNIT=
 Carrier_check=1
 GSM_timeout=60
 GPRS_retry=5
-Ping_check=0
-Ping_host=10.10.120.100
+Ping_check=1
+Ping_host=8.8.8.8
 Ping_mode=0
 Ping_retry=3
 Ping_timeout=30
